@@ -1,0 +1,23 @@
+.stop-watch {
+    width: 60%;
+    margin: 0 auto;
+}
+
+#time {
+    margin-left: 20px;
+}
+
+.bottons {
+    margin-top: 60px;
+}
+
+.btn {
+    font-weight: bold;
+    padding :5px 10px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+.inactive {
+    opacity: 0.5;
+}
